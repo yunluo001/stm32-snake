@@ -1,0 +1,14 @@
+# 编译产物
+build/
+*.o
+*.obj
+*.elf
+*.map
+
+# 工具生成的临时文件
+mx.scratch
+.settings/
+.clangd
+.cache/
+backup/
+答辩速查稿*
